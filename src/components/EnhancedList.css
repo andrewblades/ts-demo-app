@@ -1,0 +1,14 @@
+.enhanced-list {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.enhanced-list li {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.enhanced-list li:last-child {
+    border-bottom: none;
+}

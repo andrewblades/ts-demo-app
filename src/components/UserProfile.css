@@ -1,0 +1,15 @@
+.user-profile {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+.user-profile h2 {
+    margin-bottom: 10px;
+}
+
+.user-profile p {
+    margin: 5px 0;
+}

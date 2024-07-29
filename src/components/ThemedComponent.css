@@ -1,0 +1,15 @@
+.themed-component {
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.themed-component.light {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.themed-component.dark {
+    background-color: #333;
+    color: #f0f0f0;
+}
